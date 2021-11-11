@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nivethan 
 - Proactive problem solver with excellent analytical abilities with Master’s degree in Artificial Intelligence. 
 - Passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts, excellent knowledge in software development and other related technologies.
-- Highly experienced in writing codes and algorithms through various programming languages.
- 
+- Originally from Sri Lanka now based in UK
 
 <!---
 Nivethankanagarajah/Nivethankanagarajah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
