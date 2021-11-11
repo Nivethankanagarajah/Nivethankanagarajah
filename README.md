@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nivethan 
 - Proactive problem solver with excellent analytical abilities with Master’s degree in Artificial Intelligence. 
-Passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts, 
-excellent knowledge in software development and other related technologies.
-Highly experienced in writing codes and algorithms through various programming languages.
+- Passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts, excellent knowledge in software development and other related technologies.
+- Highly experienced in writing codes and algorithms through various programming languages.
  
 
 <!---
